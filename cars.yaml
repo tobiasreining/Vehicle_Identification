@@ -1,0 +1,15 @@
+names:
+  0: hatchback
+  1: sedan
+  2: SUV
+  3: Pickup
+  4: Van
+  5: Bus
+  6: Semi-Truck
+  7: Non-Semi-Truck
+  8: Taxi
+  9: Motorbike
+path: ./croppedimages
+test: ''
+train: ./images/train
+val: ./images/val
